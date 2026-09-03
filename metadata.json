@@ -1,0 +1,6 @@
+{
+  "name": "Stock Portfolio Tracker",
+  "description": "Real-time stock portfolio tracker with technical indicators, buy and sell signals, live price alert notifications, analyst reports, and market sentiment intelligence.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
